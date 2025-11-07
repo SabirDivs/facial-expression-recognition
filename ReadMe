@@ -11,4 +11,4 @@ tensorflow              2.20.0
 scikit-learn            1.7.2
 wheel                   0.45.1
 
-To test the application, run Cell No. 18. The model is yet to be improved with accuracy. 
+To test the application, run Cell No. 18 and import the required libraries. The model is yet to be improved with accuracy. 
